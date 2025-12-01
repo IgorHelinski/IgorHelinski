@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi, Im Igor!
+### Hi, Im Igor! 👋
 
 I am a 20 year old game developer from Poland and I've been making games for over 4 years now;<br />
 I specialize in Unity and C#, but i'm also making my own 3D art;<br />
