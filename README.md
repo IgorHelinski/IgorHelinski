@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi, Im Igor!
+
+I am a 20 year old game developer from Poland and I've been making games for over 4 years now;
+I specialize in Unity and C#, but i'm also making my own 3D art;
+Currently im a Game Development student at Collegium Da Vinci;
+
 <!--
 **IgorHelinski/IgorHelinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
